@@ -8,6 +8,8 @@
 
 **⚠️ NOTE:** This repository contains **no source code** as it's a proprietary commercial project.
 
+**⚠️ The project will be deployed when the final features are developed.**
+
 ---
 
 ## 📋 Project Overview
